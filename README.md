@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="App icons-01.png" alt="Trizen Solution's Logo" width="300" />
+</p>
+
 <h1 align="center">Hey there 👋, This is TriZen Solutions!</h1>
 <h3 align="center">Delivering Smart Software Solutions | From Ideas to Scalable Products</h3>
 
